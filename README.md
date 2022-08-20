@@ -9,7 +9,7 @@ I recently quit my job to focus on my passion for software development and am lo
 * 🌍  I'm based in Helsingborg, Sweden
 * 🖥️  See my portfolio at [My portfolio](http://saera-react.netlify.app/)
 * ✉️  You can contact me at [Saeraa@gmail.com](mailto:Saeraa@gmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning Vue
 * ⚡  I love watching hockey, and am interested in cybersecurity!
 
 ### Skills
