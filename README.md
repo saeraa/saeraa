@@ -7,7 +7,7 @@ Fullstack developer
 I recently quit my job to focus on my passion for software development and am looking for my first job in tech. I'm a fullstack developer focused on frontend, eager to learn all I can.
 
 * 🌍  I'm based in Helsingborg, Sweden
-* 🖥️  See my portfolio at [My portfolio](https://saera-dev.netlify.app/)
+* 🖥️  See my portfolio [here](https://saera-dev.netlify.app/)
 * ✉️  You can contact me at [Saeraa@gmail.com](mailto:Saeraa@gmail.com)
 * 🧠  I'm learning Java & Spring Boot
 * ⚡  I love watching hockey, and am interested in cybersecurity!
